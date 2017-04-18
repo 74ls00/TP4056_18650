@@ -42,7 +42,7 @@ Job="G:/home/Documents/Projects/EAGLE/Panasonic_3DO_Power/ExportGerber.cam"
 [Win_2]
 Type="Schematic Editor"
 Loc="332 293 931 692"
-State=3
+State=1
 Number=1
 File="TP4056_18650.sch"
 View="8.04903 41.2232 190.701 92.4336"
@@ -83,10 +83,10 @@ Sheet=1
 [Win_3]
 Type="Board Editor"
 Loc="332 293 931 692"
-State=3
+State=1
 Number=2
 File="TP4056_18650.brd"
-View="-6.42088 -20.6004 70.3194 11.9061"
+View="0.697347 -1.69464 26.3975 9.19172"
 WireWidths=" 1.27 1.4224 1.6764 1.778 1.9304 6.4516 2.54 0.8128 1.016 3.81 2.1844 0.254 0 0.4064 0.6096 0.3048"
 PadDiameters=" 0.254 0.3048 0.4064 0.6096 0.8128 1.016 1.27 1.4224 1.6764 1.778 1.9304 2.1844 2.54 3.81 6.4516 0"
 PadDrills=" 0.5 0.6 0.7 0.9 1 1.1 1.2 1.3 1.4 1.5 1.6 2 2.2 2.8 3.2 0.8"
@@ -121,7 +121,7 @@ Layer=1
 
 [Win_4]
 Type="Control Panel"
-Loc="592 511 1191 910"
+Loc="332 293 931 692"
 State=2
 Number=0
 
